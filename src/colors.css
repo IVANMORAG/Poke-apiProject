@@ -1,0 +1,30 @@
+/* colors.css */
+:root {
+  /* Type colors */
+  --type-normal: #A8A878;
+  --type-fire: #F08030;
+  --type-water: #6890F0;
+  --type-grass: #78C850;
+  --type-electric: #F8D030;
+  --type-ice: #98D8D8;
+  --type-fighting: #C03028;
+  --type-poison: #A040A0;
+  --type-ground: #E0C068;
+  --type-flying: #A890F0;
+  --type-psychic: #F85888;
+  --type-bug: #A8B820;
+  --type-rock: #B8A038;
+  --type-ghost: #705898;
+  --type-dark: #705848;
+  --type-dragon: #7038F8;
+  --type-steel: #B8B8D0;
+  --type-fairy: #EE99AC;
+  
+  /* Stat colors */
+  --stat-hp: #FF5959;
+  --stat-attack: #F5AC78;
+  --stat-defense: #FAE078;
+  --stat-special-attack: #9DB7F5;
+  --stat-special-defense: #A7DB8D;
+  --stat-speed: #FA92B2;
+}
